@@ -2,7 +2,7 @@
 
 👨‍💻 My name is AUGUSTO , i'm a **Full-Stack developer** and **Business Intelligence professional**
 
-<h2>Skills:</h2>
+<h2>Tools and Technologies:</h2>
 
 <table style="text-align: center;">
     <tr>
@@ -51,6 +51,10 @@
         <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" height='100px' width='100px' /> 
             <h4>Trello</h4>
+        </td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height='100px' width='100px' /> 
+            <h4>Jira</h4>
         </td>
     </tr>
 </table>
