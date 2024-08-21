@@ -15,12 +15,20 @@
             <h4>Typescript</h4>
         </td>
         <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" height='100px' width='100px' /> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height='100px' width='100px' /> 
             <h4>Vite</h4>
         </td>
         <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height='100px' width='100px' /> 
             <h4>Figma</h4>
+        </td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height='100px' width='100px' /> 
+            <h4>CSS</h4>
+        </td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height='100px' width='100px' /> 
+            <h4>Bootstrap</h4>
         </td>
     </tr>
     <tr>
@@ -40,6 +48,10 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height='100px' width='100px' /> 
             <h4>GIT</h4>
         </td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" height='100px' width='100px' /> 
+            <h4>Trello</h4>
+        </td>
     </tr>
 </table>
 
@@ -51,3 +63,4 @@
 
 ### Let's connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AugustoRibeiro-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/augusto-ribeiro7/)
+[![Gmail](https://img.shields.io/badge/Gmail-AugustoRibeiro-red?style=for-the-badge&logo=gmail)](mailto:augustoribeiro2201@gmail.com)
