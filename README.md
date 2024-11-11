@@ -1,15 +1,19 @@
 # Greetings! Welcome to my GITHUB Profile 😄👋
 
-👨‍💻 My name is AUGUSTO , i'm a **Full-Stack developer** and **Business Intelligence professional**
+👨‍💻 My name is AUGUSTO, I'm a **Full-Stack developer** and **Business Intelligence professional**
 
 <h2>Tools and Technologies:</h2>
 
 <table style="text-align: center;">
     <tr>
         <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height='100px' width='100px' /> 
+            <h4>Next.js</h4>
+        </td>
+        <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height='100px' width='100px' /> 
             <h4>React</h4>
-            </td>
+        </td>
         <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height='100px' width='100px' /> 
             <h4>Typescript</h4>
@@ -19,8 +23,8 @@
             <h4>Vite</h4>
         </td>
         <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height='100px' width='100px' /> 
-            <h4>Figma</h4>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height='100px' width='100px' /> 
+            <h4>Tailwind CSS</h4>
         </td>
         <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height='100px' width='100px' /> 
@@ -33,12 +37,20 @@
     </tr>
     <tr>
         <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height='100px' width='100px' /> 
-            <h4>Java</h4>
-        </td>              
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height='100px' width='100px' /> 
+            <h4>Express.js</h4>
+        </td>
         <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height='100px' width='100px' /> 
-            <h4>C</h4>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height='100px' width='100px' /> 
+            <h4>Node.js</h4>
+        </td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" height='100px' width='100px' /> 
+            <h4>Prisma</h4>
+        </td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height='100px' width='100px' /> 
+            <h4>PostgreSQL</h4>
         </td>
         <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height='100px' width='100px' /> 
@@ -49,12 +61,8 @@
             <h4>GIT</h4>
         </td>
         <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" height='100px' width='100px' /> 
-            <h4>Trello</h4>
-        </td>
-        <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height='100px' width='100px' /> 
-            <h4>Jira</h4>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height='100px' width='100px' /> 
+            <h4>Figma</h4>
         </td>
     </tr>
 </table>
