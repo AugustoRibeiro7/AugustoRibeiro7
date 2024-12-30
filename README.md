@@ -1,6 +1,6 @@
-# Greetings! Welcome to my GITHUB Profile 😄👋
+# Greetings! My name is Augusto 😄👋
 
-👨‍💻 My name is AUGUSTO, I'm a **Full-Stack developer** and **Business Intelligence professional**
+👨‍💻 I'm a **Full-Stack developer** and **Business Intelligence professional**
 
 <h2>Tools and Technologies:</h2>
 
@@ -66,11 +66,6 @@
         </td>
     </tr>
 </table>
-
-<div>
-    <a href="https://github.com/AugustoRibeiro7">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoRibeiro7&layout=compact&langs_count=7&theme=codeSTACKr"/>
-</div>
 
 ### Let's connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AugustoRibeiro-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/augusto-ribeiro7/)
