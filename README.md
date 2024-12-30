@@ -1,6 +1,6 @@
 # Greetings! My name is Augusto 😄👋
 
-👨‍💻 I'm a **Full-Stack developer** and **Business Intelligence professional**
+<h4>👨‍💻 I'm a Full-Stack developer and Business Intelligence professional</h4>
 
 <h2>Tools and Technologies:</h2>
 
